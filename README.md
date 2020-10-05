@@ -1,5 +1,4 @@
-# si-frontend
-
+# Frontend
 setup linter
 
 install eslint plugin
@@ -30,4 +29,3 @@ install prettier plugin (disable it after installation)
     },
 }
 ``` 
-# Frontend
